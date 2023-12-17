@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+requests
+pandas
+
+###### Requirements with Version Specifiers ######
+openpyxl >= 3.1.2            # Minimum version 3.1.2
